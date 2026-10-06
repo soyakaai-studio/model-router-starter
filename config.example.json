@@ -1,0 +1,5 @@
+{
+  "thresholds": {"claude_session_percent": 70, "codex_weekly_percent": 80},
+  "max_reading_age_seconds": 300,
+  "adapters": {"claude": [], "codex": [], "deepseek": []}
+}
